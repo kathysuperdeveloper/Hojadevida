@@ -6,6 +6,13 @@
   <title>Hoja de Vida</title>
  </head>
  <body>
-  
+  <h1>Curriculum Vitae</h1>
+  <h2>Katheryn Rojas Belmar</h2>
+    <h3>17/02/1981 Bahía Blanca, Buenos Aires, Argentina</h3>
+    <nav>
+      <a href="/">Inicio</a>
+      <a href="">Educación</a>
+      <a href="">Experiencia</a>
+    </nav>
  </body>
 </html>
